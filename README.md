@@ -1,1 +1,2 @@
-<img src="/nodeLover.png" width="750" height="450"/>
+## Adriano Forcellini;  Node Lover, JS ninja 
+<img src="/nodeLover.png" width="500" height="300"/>
