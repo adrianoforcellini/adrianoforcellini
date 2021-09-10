@@ -1,1 +1,1 @@
-<img src="/nodeLover.gif" width="750" height="450"/>
+<img src="/nodeLover.png" width="750" height="450"/>
