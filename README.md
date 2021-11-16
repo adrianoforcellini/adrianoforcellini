@@ -11,7 +11,7 @@
 
 :computer: I'm Full-Stack Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil, and living Pirassununga-SP
 
 :books: I’m currently learning everything.
 
