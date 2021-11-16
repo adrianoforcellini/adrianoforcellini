@@ -30,7 +30,7 @@ Entering this fascinating job market
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)
 
 E-mail: adrianoforcellinipedretti@gmail.com
 
