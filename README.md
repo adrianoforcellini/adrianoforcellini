@@ -19,7 +19,7 @@
 
 Learn the bases of the main software development technologies, ✔️
 
-Entering this fascinating job market
+Entering this fascinating job market ✔️
 
 ## Stacks
 
